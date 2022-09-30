@@ -8,6 +8,7 @@ public class ZinsDemo {
 
         System.out.println(berechneZinsen(500, 2));
         System.out.println(berechneZinsen(2335.888, 2.25));
+        System.out.println(berechneZinsen(8555.99, 1.09));
 
     }
     public static double berechneZinsen(double kontostand, double zinsen) {
