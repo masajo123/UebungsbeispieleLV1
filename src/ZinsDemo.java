@@ -13,6 +13,5 @@ public class ZinsDemo {
     public static double berechneZinsen(double kontostand, double zinsen) {
         double result = ((kontostand * zinsen) / 100);
         return result;
-
     }
 }

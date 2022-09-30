@@ -7,6 +7,7 @@ public class RechteckDemo {
      * Siehe Lösung von Übungsbeispiel LV1
      * @param args
      */
+
     public static void main(String[] args) {
         int result = rechteck(4, 5);
         System.out.println("Fläche Rechteck: " + result + "m2");

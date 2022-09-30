@@ -3,6 +3,7 @@ public class VariableDemo {
         String vorname = "Martina";
         String nachname = "Müllner";
 
+
         System.out.println("Der Name lautet: " + vorname + " " + nachname);
     }
 }
